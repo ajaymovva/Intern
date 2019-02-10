@@ -1,0 +1,160 @@
+############################################
+
+query time is : 2019-02-05_10:33:18
+
+Entered group : all_groups
+
+Entered Query : Harmony manager
+
+articles_title : Harmony Deal Manager - Unable to open Harmony
+articles_url : https://jam4.sapjam.com/wiki/show/dYSeh2tmKkrRDxDhtNCZFq
+distance : 0.2530512809753418
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-dYSeh2tmKkrRDxDhtNCZFq~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - Red Error "Please maintain Contract Manager, it is mandatory for CMS Case process”
+articles_url : https://jam4.sapjam.com/wiki/show/eVnsNNiPQp5yiGycRqRFPa
+distance : 0.2177058607339859
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-eVnsNNiPQp5yiGycRqRFPa~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - Unable to change my Close Date
+articles_url : https://jam4.sapjam.com/wiki/show/S3tqkBlYj3TeN7B5Ixp2wH
+distance : 0.16421672701835632
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-S3tqkBlYj3TeN7B5Ixp2wH~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - "Failed to Load Requested Page”
+articles_url : https://jam4.sapjam.com/wiki/show/mG9h24jSGM78QjReqoBtj9
+distance : 0.15701749920845032
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-mG9h24jSGM78QjReqoBtj9~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - Red Error "The item number XX has been assigned twice"
+articles_url : https://jam4.sapjam.com/wiki/show/xM7zFzj96dw5HX85gsPFW0
+distance : 0.149626225233078
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-xM7zFzj96dw5HX85gsPFW0~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM -  Red Error "Unit data for XXX has not been created in product XXXX"
+articles_url : https://jam4.sapjam.com/wiki/show/g5wLzLeNMdl7G6uQ5glzpQ
+distance : 0.1445491462945938
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-g5wLzLeNMdl7G6uQ5glzpQ~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - "Too many Opportunity Owner entered; remove an entry"
+articles_url : https://jam4.sapjam.com/wiki/show/cXnWELVLamQ09gfkGhDK3U
+distance : 0.14366364479064941
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-cXnWELVLamQ09gfkGhDK3U~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM- Red Error 'Product Base Fee XXX on Cloud Quote (New Biz)'
+articles_url : https://jam4.sapjam.com/wiki/show/d3rJV6ut4BtXBM8btDbLIM
+distance : 0.14092203974723816
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-d3rJV6ut4BtXBM8btDbLIM~P
+
+****************************************
+
+articles_title : Harmony Deal Manager/CRM - Red Error "Transaction is incomplete: Enter Price list"
+articles_url : https://jam4.sapjam.com/wiki/show/nsHlo3WkovFOcdiCQFhsCA
+distance : 0.13910624384880066
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-nsHlo3WkovFOcdiCQFhsCA~P
+
+****************************************
+
+articles_title : Harmony Deal Manager - "Deal Creation for License GB (Direct and Indirect)"
+articles_url : https://jam4.sapjam.com/wiki/show/K4ohwTQbK9ccWVshc3h2Tj
+distance : 0.13678935170173645
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/487770-K4ohwTQbK9ccWVshc3h2Tj~P
+
+****************************************
+
+############################################
+
+############################################
+
+query time is : 2019-02-05_10:34:04
+
+Entered group : all_groups
+
+Entered Query : Skype not working
+
+articles_title : IT/COM/097 - Skype for Business - Full Profile Reset
+articles_url : https://jam4.sapjam.com/wiki/show/ca4GtxzpvTau8KbA7l1Fc2
+distance : 0.38276147842407227
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-ca4GtxzpvTau8KbA7l1Fc2~P
+
+****************************************
+
+articles_title : IT/COM/065 - Skype for Business - Update Skype for Business client
+articles_url : https://jam4.sapjam.com/wiki/show/MXBL5apKak6AhaGun3xfCz
+distance : 0.3826359808444977
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-MXBL5apKak6AhaGun3xfCz~P
+
+****************************************
+
+articles_title : IT/COM/074 - Skype for Business - Login only possible via VPN
+articles_url : https://jam4.sapjam.com/wiki/show/IMcOEaxakFenLILFNvw1TS
+distance : 0.3821577727794647
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-IMcOEaxakFenLILFNvw1TS~P
+
+****************************************
+
+articles_title : IT/COM/057 - No scheduled meetings shown in Skype
+articles_url : https://jam4.sapjam.com/wiki/show/nZcXLCmvMMYKDK69TGTXkd
+distance : 0.3791578710079193
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-nZcXLCmvMMYKDK69TGTXkd~P
+
+****************************************
+
+articles_title : IT/COM/098 - Skype For Business - Collect the Log Files
+articles_url : https://jam4.sapjam.com/wiki/show/QOafursupytcE1JRRgVBJi
+distance : 0.36296984553337097
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-QOafursupytcE1JRRgVBJi~P
+
+****************************************
+
+articles_title : IT/COM/058 - Skype: Transparent window during a call / can't hang up the call
+articles_url : https://jam4.sapjam.com/wiki/show/ONtpeHPIvkOkwSG73ur6Il
+distance : 0.3459177017211914
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-ONtpeHPIvkOkwSG73ur6Il~P
+
+****************************************
+
+articles_title : IT/COM/096 - Skype for Business - Can't sign in to Skype for Business error
+articles_url : https://jam4.sapjam.com/wiki/show/gTFDzgtldnBq7iEvukbUsG
+distance : 0.34048107266426086
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-gTFDzgtldnBq7iEvukbUsG~P
+
+****************************************
+
+articles_title : IT/COM/064 - Skype for Business - Login / Sign in not possible, Skype Crashes
+articles_url : https://jam4.sapjam.com/wiki/show/uFkwebd6aYlcRzi4UbyPpG
+distance : 0.3403680920600891
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-uFkwebd6aYlcRzi4UbyPpG~P
+
+****************************************
+
+articles_title : IT/COM/092 - Skype for Business - MacOS users not reachable on Skype
+articles_url : https://jam4.sapjam.com/wiki/show/CVDYaO4xiIM9R2Ew1rqfj4
+distance : 0.3365528881549835
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-CVDYaO4xiIM9R2Ew1rqfj4~P
+
+****************************************
+
+articles_title : IT/COM/101 - Skype for Business - “Sign in to your Exchange account…”
+articles_url : https://jam4.sapjam.com/wiki/show/Uc3bAMAmxLTYjjXoVCGSJL
+distance : 0.31683477759361267
+enduserurl : https://fiorilaunchpad.sap.com/sites#Help-Create&/articledetail/490559-Uc3bAMAmxLTYjjXoVCGSJL~P
+
+****************************************
+
+############################################
+

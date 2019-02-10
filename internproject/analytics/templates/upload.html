@@ -1,0 +1,28 @@
+{% extends "_base.html"%}
+
+{% block content %}
+
+<center>
+    <h1>
+        Add file here
+    </h1>
+    <div>
+        <div>
+            <div style="height:200px">
+                <div>
+                    <br><br>
+                    <form style="align:center" action="{% url 'analytics:fileupload' %}" method="post"
+                          enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <input type="file" name="file" onchange="this.form.submit()"/>
+                        <br><br>
+                        <!--<input class="btn btn-primary" type="submit"-->
+                               <!--value="Submit">-->
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</center>
+
+{% endblock %}

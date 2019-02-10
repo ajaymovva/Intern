@@ -1,0 +1,45 @@
+{% extends "_base.html"%}
+
+{% block content %}
+
+{% load staticfiles %}
+    <script src="{% static 'js/bootstrap.js' %}" ></script>
+
+<center>
+    <div style="margin-left:1000px;margin-top:50px">
+        <form action="{% url 'analytics:preprocess' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <select name="date" onchange="this.form.submit()"
+                    class="form-control" style="width:auto;" >
+                {% for obj in options %}
+                {% if obj == select_option %}
+                <option selected>{{obj}}</option>
+                {% else %}
+                <option>{{obj}}</option>
+                {% endif %}
+                {% endfor %}
+            </select>
+        </form>
+    </div>
+    <div>
+        <h1>
+            data processed
+        </h1>
+        <table border="1px" style="width:80%">
+            <tr>
+                <th style="text-align:center">articles_title</th>
+                <th style="text-align:center">articles_url</th>
+                <th style="text-align:center">distance</th>
+                <th style="text-align:center">enduserurl</th>
+            </tr>
+            {% for obj in object %}
+            <tr>
+                {% for small in obj %}
+                <td style="text-align:center">{{small}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</center>
+{% endblock %}

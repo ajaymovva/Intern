@@ -1,0 +1,28 @@
+{% extends "_base.html"%}
+
+{% block content %}
+
+<center>
+<h1>
+    data processed
+</h1>
+<div>
+    <table border="1px" style="width:80%">
+        <tr>
+            <th>articles_title</th>
+            <th>articles_url</th>
+            <th>distance</th>
+            <th>enduserurl</th>
+        </tr>
+        {% for obj in object %}
+            <tr>
+                {% for small in obj %}
+                <td style="text-align:center">{{small}}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+</div>
+</center>
+
+{% endblock %}
